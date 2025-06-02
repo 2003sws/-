@@ -5,9 +5,6 @@
 // @description  多平台优化的论文提取工具，可提取网页中的所有论文内容并按原始大小合并成文档，支持A4格式检测，深度内容检索，支持内容压缩以减小文件体积
 // @author       Trae AI
 // @match        *://*.etdlib.bnu.edu.cn/read/*
-// @match        *://*.chaoxing.com/*
-// @match        *://pan-yz.chaoxing.com/*
-// @match        *://*.zxxk.com/*
 // @grant        GM_addStyle
 // @grant        GM_saveTab
 // @grant        unsafeWindow
